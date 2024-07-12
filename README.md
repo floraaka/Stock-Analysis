@@ -1,7 +1,7 @@
 # Stock Data Analysis with VBA in Excel
 This VBA script is designed to analyze stock data across multiple quarters in Excel, calculating metrics such as quarterly change, percentage change, and total volume for each stock. It also applies conditional formatting to highlight cells with the greatest percentage increase, decrease, and volume.
 
-![alt text](https://github.com/floraaka/Stock-Analysis/blob/main/Screenshot 2024-07-10 123611.png?raw=true)
+![alt text](https://github.com/floraaka/Stock-Analysis/main/Screenshot 2024-07-10 123611.png?raw=true)
 
 ## Features
 ### Processing Stock Data:
